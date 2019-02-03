@@ -7,4 +7,10 @@ threefunction- i have added a not very important function here/
 
 adding a new function for confly
 
+
 added a code for doing logout 
+
+adding a chart function here
+
+when i add something new in this file. 
+
