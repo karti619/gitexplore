@@ -3,3 +3,8 @@ twofunction- i have added a very important function here/
 threefunction- i have added a not very important function here/ 
 
 Adding thirdfunction
+<<<<<<< HEAD
+=======
+
+adding a chart function here
+>>>>>>> newchart
