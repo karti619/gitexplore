@@ -14,3 +14,8 @@ adding a chart function here
 
 when i add something new in this file. 
 
+
+adding a chart function here
+
+stash 1
+
